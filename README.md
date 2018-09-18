@@ -1,2 +1,2 @@
-# Computational-Thinking-Code
+# ComputationalThinking-Codes
 My own codes
