@@ -4,20 +4,16 @@ Void main()
 {
  int a;
  clrscr();
- printf("INPUT\n");
+ printf("Input:");
  scanf("%d".&a);
- if(a>=0)
+ if(a>0)
  {
-  if(a>0)
-  {
-   printf("POSITIVE\n");
-  }
-  else
-  {
-   printf("ZERO");
-  }
+  printf("Positive");
  }
-else
-{
- printf("NEGATIVE"\n);
+ else
+ {
+  printf("Zero");
+ }
+ getch();
 }
+ 
