@@ -6,6 +6,7 @@ Void main()
  clrscr();
  printf("Input:");
  scanf("%d".&a);
+ printf("Output:\n");
  if(a>0)
  {
   printf("Positive");
