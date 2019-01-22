@@ -1,0 +1,10 @@
+print("Input")
+n=int(input(""))
+k=int(input(""))
+N=[n,k]
+s=0
+while(k>0):
+  s=s+k
+  k=k-1
+  print(k)
+print("Output:\n",s)
